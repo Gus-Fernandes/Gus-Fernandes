@@ -1,16 +1,25 @@
-## Hi there 👋
+##Gustavo Fernandes
 
-<!--
-**Gus-Fernandes/Gus-Fernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Full Stack** | Web & Mobile
 
-Here are some ideas to get you started:
+📍 Campo Mourão – PR, Brasil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias
+
+**Linguagens**
+
+![JavaScript](https://skillicons.dev/icons?i=js,ts,dart,html,css)
+
+**Frameworks & Mobile**
+
+![Frameworks](https://skillicons.dev/icons?i=nextjs,react,astro,flutter)
+
+**Banco de Dados**
+
+![Databases](https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql)
+
+**Ferramentas**
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
